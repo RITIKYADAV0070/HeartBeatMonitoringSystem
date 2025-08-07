@@ -1,0 +1,15 @@
+[
+  { "service": "email", "timestamp": "2025-08-04T10:00:00Z" },
+  { "service": "email", "timestamp": "2025-08-04T10:01:00Z" },
+  { "service": "email", "timestamp": "2025-08-04T10:02:00Z" },
+  { "service": "api", "timestamp": "2025-08-04T10:00:00Z" },
+  { "service": "api", "timestamp": "2025-08-04T10:01:00Z" },
+  { "service": "api", "timestamp": "2025-08-04T10:04:00Z" },
+  { "service": "database", "timestamp": "2025-08-04T10:02:00Z" },
+  { "service": "database", "timestamp": "2025-08-04T10:00:00Z" },
+  { "service": "database", "timestamp": "2025-08-04T10:01:00Z" },
+  { "service": "cache" },
+  { "timestamp": "2025-08-04T10:01:00Z" },
+  { "service": "cache", "timestamp": "invalid-date" },
+  { "service": "cache", "timestamp": "2025-08-04T10:00:00Z" }
+]
